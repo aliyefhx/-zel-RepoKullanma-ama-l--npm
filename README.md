@@ -5,4 +5,4 @@ A NPM Package for WhatsAsena
 `npm install -g whatsasena-npm`
 
 ### NPM Author
-`Phaticusthiccy` - [NPM](https://www.npmjs.com/package/whatsasena-npm)
+`aliyefhx` - [NPM](https://www.npmjs.com/package/whatsasena-npm)
